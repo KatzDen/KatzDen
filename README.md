@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KatzDen&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=9e9e9e&icon_color=ffffff&border_color=303030" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatzDen&layout=compact&bg_color=00000000&title_color=ffffff&text_color=9e9e9e&border_color=303030" alt="Top languages"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KatzDen&theme=transparent" alt="GitHub stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KatzDen&theme=transparent" alt="Top languages"/>
 </div>
 
 <div align="center">
