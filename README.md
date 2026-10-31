@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.gif" alt="KatzDen — Alex Kaputin, Full-stack QA" width="100%"/>
+  <img src="./header.gif?v=2" alt="KatzDen — Alex Kaputin, Full-stack QA" width="100%"/>
 </div>
 
 <div align="center">
